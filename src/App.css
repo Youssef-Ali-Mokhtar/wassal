@@ -24,8 +24,35 @@
   color: white;
 }
 
+.nav-link{
+  text-decoration: none;
+  margin: 10px;
+  color:white;
+  display:block;
+  font-style:lato;
+  display:flex;
+}
+a{
+  text-decoration: none;
+  color:black;
+}
+
 .App-link {
   color: #61dafb;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white; 
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #cfcccc; 
 }
 
 @keyframes App-logo-spin {
