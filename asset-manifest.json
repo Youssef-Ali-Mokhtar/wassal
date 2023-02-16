@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/wassal/static/css/main.fac0c408.css",
+    "main.css": "/wassal/static/css/main.ec465b86.css",
     "main.js": "/wassal/static/js/main.d6a7c222.js",
     "index.html": "/wassal/index.html",
-    "main.fac0c408.css.map": "/wassal/static/css/main.fac0c408.css.map",
+    "main.ec465b86.css.map": "/wassal/static/css/main.ec465b86.css.map",
     "main.d6a7c222.js.map": "/wassal/static/js/main.d6a7c222.js.map"
   },
   "entrypoints": [
-    "static/css/main.fac0c408.css",
+    "static/css/main.ec465b86.css",
     "static/js/main.d6a7c222.js"
   ]
 }
